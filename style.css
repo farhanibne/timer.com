@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: #28253d;
+   
 }
 footer {
     background-color: #28253d;
@@ -217,7 +217,7 @@ footer {
 #hour {
     width: 100%;
     height: 100%;
-    transform: rotate(-180deg);
+    transform: rotate(180deg);
 }
 #hour::after {
     content: "";

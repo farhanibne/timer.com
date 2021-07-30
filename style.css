@@ -1,11 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: #00000026;
 
 }
-html {
-    background-color: #00000026;
-}
+
 
 .wrapper {
     height: 100vh;
